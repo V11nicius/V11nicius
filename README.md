@@ -7,12 +7,12 @@
 
  ## LINGUAGENS QUE EU UTILIZO!
 
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
    <img align="centet" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</div><br>
+</div>
 
 • Atualmente sou estudante de Ciência Da Computação<br>
 
