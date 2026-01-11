@@ -15,4 +15,4 @@
 
 </div><br>
 
-• I'm currently a computer science student<br>
+• I'm currently a computer science student <br>
