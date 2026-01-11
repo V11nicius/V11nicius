@@ -1,4 +1,4 @@
-### Olá Me chamo Vinicius 👋
+### Hello my name is Vinicius 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/v11nicius_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-marques-571a652b0/)
@@ -15,6 +15,4 @@
 
 </div><br>
 
-• Atualmente sou estudante de Ciência Da Computação<br>
-
-Sou uma pessoa apaixonada por tecnologia, amante de futebol e sempre em busca de explorar novas experiências e descobertas.
+• I'm currently a computer science student<br>
