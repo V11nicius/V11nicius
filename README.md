@@ -5,7 +5,7 @@
 
  ![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=V11nicius&show_icons=true&theme=dracula)
 
- ## LINGUAGENS QUE EU UTILIZO!
+ ## LANGUAGES THAT I'M CURRENTLY USING !
 
  <div style="display: inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
